@@ -1,0 +1,68 @@
+div.header
+{
+    background-color: #442178ff;
+}
+
+div.content
+{
+    background-color: #0088aaff;
+}
+
+div.footer
+{
+    background-color: #442178ff;
+}
+
+button
+{
+    background-color: white;
+    font-size: 32pt;    
+}
+
+h1
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+hr
+{
+    color: #442178ff;
+    background-color: #442178ff;
+    height: 10px;
+}
+
+div.button-container
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div.img-container
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+
+.image
+{
+    flex-basis: 40%
+}
+
+.text
+{    
+    font-size: 16pt;   
+}
+
+div.img-row
+{
+    display: flex;
+}
+
+div.img-col
+{
+    width: 33.33%;
+    padding: 5px;
+}
