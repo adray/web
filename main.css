@@ -1,16 +1,16 @@
 div.header
 {
-    background-color: #442178ff;
+    background-color: #004455ff;
 }
 
 div.content
 {
-    background-color: #0088aaff;
+    background-color: #afdde9ff;
 }
 
 div.footer
 {
-    background-color: #442178ff;
+    background-color: #004455ff;
 }
 
 button
@@ -27,8 +27,8 @@ h1
 
 hr
 {
-    color: #442178ff;
-    background-color: #442178ff;
+    color: #004455ff;
+    background-color: #004455ff;
     height: 10px;
 }
 
@@ -46,10 +46,10 @@ div.img-container
     justify-content: center;    
 }
 
-.image
-{
-    flex-basis: 40%
-}
+//.image
+//{
+//   flex-basis: 40%
+//}
 
 .text
 {    
