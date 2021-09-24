@@ -46,6 +46,12 @@ div.img-container
     justify-content: center;    
 }
 
+.download-container { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 //.image
 //{
 //   flex-basis: 40%
